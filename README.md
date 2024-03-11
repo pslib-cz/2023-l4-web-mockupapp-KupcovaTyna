@@ -1,7 +1,7 @@
 # 2023-l4-web-mockupapp-KupcovaTyna
 2023-l4-web-mockupapp-KupcovaTyna created by GitHub Classroom
 
-*Plánovací hra*
+**Plánovací hra**
 Jedná se o hru, nebo spíše plánovač aktivit. 
 Aplikace by měla obsahovat 3 základní šablony, které detailně popisují různé činnosti. Uživatel by měl možnost upravit existující šablonu nebo vytvořit zcela novou podle svých potřeb. Aplikace by také měla obsahovat časové odhady pro jednotlivé aktivity.
 
