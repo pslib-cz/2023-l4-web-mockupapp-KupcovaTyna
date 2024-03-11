@@ -17,7 +17,7 @@ Příklad:
 
 - Uklizení sešitů, propisek a kancelářských potřeb (3 minuty)
 
-- Utržení stolu (2 minuty)
+- Utření stolu (2 minuty)
 
 - převlečení postele (7min)
 
