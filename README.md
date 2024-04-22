@@ -35,11 +35,17 @@ Každý úkol by byl jedno "políčko", uživatel by po splnění úkolu odklikl
 Index obsahuje existující plány, které lze ihned zahájit. Je zde taky velmi jednoduchá navigace, která obsahuje: ikonu kalendáře, plusu(vytvořit nový plán) a tři tečky(další možnosti) 
 Po rozkliknutí zahájení se otevře stránka se zahájenou aktivitou.
 ![zahajenaaktivita](https://github.com/pslib-cz/2023-l4-web-mockupapp-KupcovaTyna/assets/107682347/dc0abfdc-510d-4d20-aa24-329b14d34da8)
-Na této stránce je šipka zpět na index, nadpis dané činnosti, seznam úkolů (dole je první úkol, nahoře poslední) pokud je úkolů větší množství, jsou schovány a po splnění úkolu se seznam scrollne(přibude úkol nahoře, zmizí úkol dole) 
+Na této stránce je šipka zpět na index, nadpis dané činnosti, seznam úkolů (dole je první úkol, nahoře poslední) pokud je úkolů větší množství, jsou schovány a po splnění úkolu se seznam scrollne(přibude úkol nahoře, zmizí úkol dole). Nadpis zůstává stále vidět.
 dále je na této stránce čas, jak dlouho aktivita probíhá a počet zbývajících úkolů. 
-![dokončená aktivita](https://github.com/pslib-cz/2023-l4-web-mockupapp-KupcovaTyna/assets/107682347/14e39e0f-6498-48de-97c8-ba64a717c044)
+![dokoncenaaktivita](https://github.com/pslib-cz/2023-l4-web-mockupapp-KupcovaTyna/assets/107682347/4e3d3657-50e8-4e2c-afe8-040e5dce888d)
+
 Po dokončení všech úkolů se objeví okno, ve kterém lze přepnout zpět na plány nebo opakovat znovu stejný plán. Zároveň je zde napsán čas, v jakém byl plán dokončen. Také zmizí tento čas ve spodku stránky společně s počtem zbývajících úkolů. 
+
+Po kliknutí na kalendář v indexu se uživatel dostane na kalendář, ve kterém budou vyznačeny dny, ve kteých má uživatel něco naplánovaného. Plán netrvá dýl než 24 hodin, tím pádem tečka zabírá pouze jeden den. "Tečka" je vždy stejná nehledě na počet naplánovaných úloh.
+
 Po kliknutí na +(vytvoření nového plánu) se objeví stránka, kde lze popsat svůj další vlastní plán. 
+![novyplan](https://github.com/pslib-cz/2023-l4-web-mockupapp-KupcovaTyna/assets/107682347/38a84931-03b8-4e81-99ef-00aa57f7bce3)
+Na této stránce je prostor pro popsání úkolu a času, který úloha zabere. Taky zde je jednoduché plus a minus pro přidání a odebrání úlohy. Pokud by byl seznam delší, úlohy se budou opět buudou scrollovat. Pod tímto seznamem je sečten počet úloh a celkový čas. Jako poslední je zde tlačítko uložit, který tento plán uloží do "Tvé plány". 
 
 
 
