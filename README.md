@@ -53,7 +53,7 @@ Po kliknutí na +(vytvoření nového plánu) se objeví stránka, kde lze popsa
 
 Na této stránce je prostor pro popsání úkolu a času, který úloha zabere. Taky zde je jednoduché plus a minus pro přidání a odebrání úlohy. Pokud by byl seznam delší, úlohy se budou opět budou scrollovat. Pod tímto seznamem je sečten počet úloh a celkový čas. Jako poslední je zde tlačítko uložit, který tento plán uloží do "Tvé plány". 
 
-V neposlední řadě jsou zde "tři tečky" tedy další nastavení, které se zkládá pouze ze 2 možností - Upravit existující plán a O aplikaci.
+V neposlední řadě jsou zde "tři tečky" tedy další možnosti, které se skládájí pouze ze 2 možností - Upravit existující plán a O aplikaci. Tato malá navigace se objeví, zároveň aplikace "zešedne", aby byla navigace zvýrazněna. při kliku jinam než na tyto dvě možnosti se aplikace vrátí do původního stavu.
 Upravit existující plán otevře stejnou stránku jako "vytvořit nový plán" kde lze přidat/odebrat/přepsat jednotlivé úlohy a následně tento plán uložit. 
 
 Jako poslední je "O aplikaci". Je zde napsána verze aplikace, kontakt a kdo aplikaci vytvořil. 
