@@ -27,6 +27,7 @@ Příklad:
 
 
 Celkově by tedy tato činnost uklizení pokoje trvala okolo 49 minut. Uživatel by tedy věděl kolik času by si měl na danou činnost rezervovat. 
+**Figma návrh: https://www.figma.com/file/W2Np4KOyqf4j4kt70Hruu4/Untitled?type=design&node-id=0-1&mode=design&t=c0ie72Tc084doyvz-0 **
 
 Každý úkol by byl jedno "políčko", uživatel by po splnění úkolu odklikl jeho dokončení a posunul se na další bod. 
 Barevná paleta je tvořena barvami: 
@@ -84,6 +85,7 @@ Jako poslední je "O aplikaci". Je zde napsána verze aplikace, kontakt a kdo ap
 
 
 Možné rozšíření aplikace:
+
 Za splněný cíl dostat určitý počet mincí/žetonů/bodů, za které by mohl uživatel buď něco kupovat nebo je sdílet se svými přáteli, a tím vidět kolik bodů mají ostatní, tím pádem se předhánět o první místo v počtu bodů(vykonaných aktivit). Uživatele by mezi sebou také mohli sdílet jednotlivé šablony plánů. Lidé by tak byli motivovaní k udělání činnosti. 
 
 Kupovat by mohli například jiné vzhledy aplikace při plnění úkolu. Nebo by se dala přidat postavička, pro kterou lze kupovat oblečení/doplňky...
