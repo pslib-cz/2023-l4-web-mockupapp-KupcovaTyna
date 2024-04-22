@@ -27,7 +27,7 @@ Příklad:
 
 
 Celkově by tedy tato činnost uklizení pokoje trvala okolo 49 minut. Uživatel by tedy věděl kolik času by si měl na danou činnost rezervovat. 
-**Figma návrh: https://www.figma.com/file/W2Np4KOyqf4j4kt70Hruu4/Untitled?type=design&node-id=0-1&mode=design&t=c0ie72Tc084doyvz-0 **
+**Figma návrh:[https://www.figma.com/file/W2Np4KOyqf4j4kt70Hruu4/Untitled?type=design&node-id=0-1&mode=design&t=c0ie72Tc084doyvz-0]**
 
 Každý úkol by byl jedno "políčko", uživatel by po splnění úkolu odklikl jeho dokončení a posunul se na další bod. 
 Barevná paleta je tvořena barvami: 
