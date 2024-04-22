@@ -45,15 +45,16 @@ Index obsahuje existující plány, které lze ihned zahájit. Je zde taky velmi
 
 ![index](https://github.com/pslib-cz/2023-l4-web-mockupapp-KupcovaTyna/assets/107682347/b32e7cb1-dc26-489b-aba5-4fe44f24804a)
 
-## Zahájená aktivita
+## Aktivita
 Po rozkliknutí zahájení se otevře stránka se zahájenou aktivitou.
 
+### Zahájená aktivita
 ![zahajenaaktivita](https://github.com/pslib-cz/2023-l4-web-mockupapp-KupcovaTyna/assets/107682347/def02459-dd6e-451a-8f91-5bb4432e1ae4)
 
 Na této stránce je šipka zpět na index, nadpis dané činnosti, seznam úkolů (dole je první úkol, nahoře poslední) pokud je úkolů větší množství, jsou schovány a po splnění úkolu se seznam scrollne(přibude úkol nahoře, zmizí úkol dole). Nadpis zůstává stále vidět. Úlohy lze označit jako dokončené i v jiném pořadí, než ve kterém jsou napsány za sebou. 
 dále je na této stránce čas, jak dlouho aktivita probíhá a počet zbývajících úkolů. 
 
-## Dokončená aktivita
+### Dokončená aktivita
 ![dokoncenaaktivita](https://github.com/pslib-cz/2023-l4-web-mockupapp-KupcovaTyna/assets/107682347/85c2bbb8-602f-47de-8c3f-49e4b8717cf2)
 
 Po dokončení VŠECH úkolů se objeví okno, ve kterém lze přepnout zpět na plány nebo opakovat znovu stejný plán. Zároveň je zde napsán čas, v jakém byl plán dokončen. Také zmizí tento čas ve spodku stránky společně s počtem zbývajících úkolů. 
