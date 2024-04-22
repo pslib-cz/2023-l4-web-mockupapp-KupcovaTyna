@@ -25,11 +25,20 @@ Příklad:
 
 - Vytření podlahy (15 minut)
 
+![plandnes](https://github.com/pslib-cz/2023-l4-web-mockupapp-KupcovaTyna/assets/107682347/0ef47524-5ead-47fc-9b05-ddfee4321826)
 
 
 Celkově by tedy tato činnost uklizení pokoje trvala okolo 49 minut. Uživatel by tedy věděl kolik času by si měl na danou činnost rezervovat. 
 
-Každý úkol by byl jedno políčko, uživatel by tak se svou postavičkou pokračoval políčko od políčka jako takovou cestu. Na závěr by za splněný cíl dostal určitý počet mincí/žetonů/bodů, za které by mohl buď něco kupovat nebo je sdílet se svými přáteli, a tím vidět kolik bodů mají ostatní, tím pádem se předhánět o první místo v počtu bodů(vykonaných aktivit). Uživatele by mezi sebou také mohli sdílet jednotlivé šablony. Lidé by tak byli motivovaní k udělání činnosti. 
+Každý úkol by byl jedno "políčko", uživatel by po splnění úkolu odklikl jeho dokončení a posunul se na další bod. 
+
+
+
+
+
+
+
+Na závěr by za splněný cíl dostal určitý počet mincí/žetonů/bodů, za které by mohl buď něco kupovat nebo je sdílet se svými přáteli, a tím vidět kolik bodů mají ostatní, tím pádem se předhánět o první místo v počtu bodů(vykonaných aktivit). Uživatele by mezi sebou také mohli sdílet jednotlivé šablony. Lidé by tak byli motivovaní k udělání činnosti. 
 
 Kupovat by mohli například oblečení/doplňky ke své postavičce nebo například jiné vzhledu “cesty” při plnění úkolu.
 
