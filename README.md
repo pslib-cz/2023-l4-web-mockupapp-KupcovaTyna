@@ -1,6 +1,8 @@
 # 2023-l4-web-mockupapp-KupcovaTyna
 2023-l4-web-mockupapp-KupcovaTyna created by GitHub Classroom
 
+Vhodný pro mobilní aplikaci s localstorage.
+
 ## Plánovací hra
 Jedná se o hru, nebo spíše plánovač aktivit. 
 Aplikace by měla obsahovat 3 základní šablony, které detailně popisují různé činnosti. Uživatel by měl možnost upravit existující šablonu nebo vytvořit zcela novou podle svých potřeb. Aplikace by také měla obsahovat časové odhady pro jednotlivé aktivity.
@@ -41,26 +43,46 @@ Barevná paleta je tvořena barvami:
 ![barvy](https://github.com/pslib-cz/2023-l4-web-mockupapp-KupcovaTyna/assets/107682347/fd0ceb1d-1de2-466b-8440-4eb1d2813c14)
 
 ## Index
-Index obsahuje existující plány, které lze ihned zahájit. Je zde taky velmi jednoduchá navigace, která obsahuje: ikonu kalendáře, plusu(vytvořit nový plán) a tři tečky(další možnosti) 
+Index obsahuje zahájené plány, ve kterých lze pokračovat. Taky obsahuje dokončená plány za poslední týden. Je zde taky velmi jednoduchá navigace, která obsahuje: ikonu kalendáře, šablony a info(O aplikaci) 
 
-![index](https://github.com/pslib-cz/2023-l4-web-mockupapp-KupcovaTyna/assets/107682347/b32e7cb1-dc26-489b-aba5-4fe44f24804a)
+![index](https://github.com/pslib-cz/2023-l4-web-mockupapp-KupcovaTyna/assets/107682347/e4d25b18-ca37-449a-9522-993ba16873e2)
 
 ## Aktivita
-Po rozkliknutí zahájení se otevře stránka se zahájenou aktivitou.
+Po rozkliknutí pokračování se otevře stránka s již zahájenou aktivitou. 
 
 ### Zahájená aktivita
-![zahajenaaktivita](https://github.com/pslib-cz/2023-l4-web-mockupapp-KupcovaTyna/assets/107682347/def02459-dd6e-451a-8f91-5bb4432e1ae4)
+![zahajenaaktivita](https://github.com/pslib-cz/2023-l4-web-mockupapp-KupcovaTyna/assets/107682347/5135c3f0-829b-4603-8095-243a2cb63dd5)
 
-Na této stránce je šipka zpět na index, nadpis dané činnosti, seznam úkolů (dole je první úkol, nahoře poslední) pokud je úkolů větší množství, jsou schovány a po splnění úkolu se seznam scrollne(přibude úkol nahoře, zmizí úkol dole). Nadpis zůstává stále vidět. Úlohy lze označit jako dokončené i v jiném pořadí, než ve kterém jsou napsány za sebou. 
-dále je na této stránce čas, jak dlouho aktivita probíhá a počet zbývajících úkolů. 
+Na této stránce je šipka zpět na index(zahájené a dokončné aktivity), nadpis dané činnosti, seznam úkolů (dole je první úkol, nahoře poslední) pokud je úkolů větší množství, jsou schovány a po splnění úkolu se seznam scrollne(přibude úkol nahoře, úkol dole se posune pod navigaci) - seznam je scrollovatelný. Nadpis zůstává stále vidět. Úlohy lze označit jako dokončené i v jiném pořadí, než ve kterém jsou napsány za sebou. 
+Dále je na této stránce čas, jak dlouho aktivita probíhá a počet zbývajících úkolů. 
 
 ### Dokončená aktivita
-![dokoncenaaktivita](https://github.com/pslib-cz/2023-l4-web-mockupapp-KupcovaTyna/assets/107682347/85c2bbb8-602f-47de-8c3f-49e4b8717cf2)
+![dokončenaaktivita](https://github.com/pslib-cz/2023-l4-web-mockupapp-KupcovaTyna/assets/107682347/450b9c78-bfb7-44cb-ba17-384f89c87dbe)
 
 Po dokončení VŠECH úkolů se objeví okno, ve kterém lze přepnout zpět na plány nebo opakovat znovu stejný plán. Zároveň je zde napsán čas, v jakém byl plán dokončen. Také zmizí tento čas ve spodku stránky společně s počtem zbývajících úkolů. 
+Jsou zde 2 tlačítka - jedno vede zpět na plány a druhým lze opakovat tu stejnou aktivitu.
+
+## Šablony
+![šablony](https://github.com/pslib-cz/2023-l4-web-mockupapp-KupcovaTyna/assets/107682347/3ebcd56d-82bb-4db9-8716-0c6a3c8c2e22)
+
+Na tuto stránku se uživatel dostane kliknutím na ikonu šablony v indexu.
+
+![navigace](https://github.com/pslib-cz/2023-l4-web-mockupapp-KupcovaTyna/assets/107682347/fabf1b01-e8e2-40fc-a0ae-a3dd13e68913)
+
+Na této stránce jsou uloženy šablony, které lze zahájit, upravit nebo je smazat. 
+Dole je opět malá navigace opět obsahuje kalendář a info, místo šablon je zde plus, kterým lze vytvořit nový plán. 
+Nahoře je tlačítko plány, která vede
+
+
+## Nový plán
+
+
+Po kliknutí na +(vytvoření nového plánu) se objeví stránka, kde lze popsat svůj další vlastní plán. 
+Na této stránce je prostor pro popsání úkolu a času, který úloha zabere. Taky zde je jednoduché plus a minus pro přidání a odebrání úlohy. Pokud by byl seznam delší, úlohy se budou opět budou scrollovat. Pod tímto seznamem je sečten počet úloh a celkový čas. Jako poslední je zde tlačítko uložit, který tento plán uloží do "Tvé plány". 
+
 
 ## Kalendář
-![kalendar](https://github.com/pslib-cz/2023-l4-web-mockupapp-KupcovaTyna/assets/107682347/208ab888-043b-4c9d-b06a-1baacafb9352)
+
 
 Po kliknutí na kalendář v indexu se uživatel dostane na kalendář, ve kterém budou vyznačeny dny, ve kteých má uživatel něco naplánovaného. Plán netrvá dýl než 24 hodin, tím pádem "tečka" zabírá pouze jeden den. "Tečka" je vždy stejná nehledě na počet naplánovaných úloh.
 
@@ -75,11 +97,6 @@ Dále zde rozkliknout jednotlivé dny, kde je vidět, které plány v daný den 
 Je zde také plus, kterým se objeví okno "přidat plán". Uživatel může vybrat jeden plán, který se ihned přidá. Pokud se uživatel splete je zde křížek vedle zahájení plánu. Uživatel může přidat kolik plánů chce. 
 Plán může tedy rovnou zahajit. Dále zde je poznámkový blok. Šipkou zpět se vrátí na kalendář. Na plány se vrátí horní navigací "Tvé plány".
 
-## Nový plán
-![novyplan](https://github.com/pslib-cz/2023-l4-web-mockupapp-KupcovaTyna/assets/107682347/5ab0e41a-1c41-4185-9035-1e0d5c3e0317)
-
-Po kliknutí na +(vytvoření nového plánu) se objeví stránka, kde lze popsat svůj další vlastní plán. 
-Na této stránce je prostor pro popsání úkolu a času, který úloha zabere. Taky zde je jednoduché plus a minus pro přidání a odebrání úlohy. Pokud by byl seznam delší, úlohy se budou opět budou scrollovat. Pod tímto seznamem je sečten počet úloh a celkový čas. Jako poslední je zde tlačítko uložit, který tento plán uloží do "Tvé plány". 
 
 ## Další možnosti
 ![dalsi](https://github.com/pslib-cz/2023-l4-web-mockupapp-KupcovaTyna/assets/107682347/dd02d11c-fda7-420d-b66f-ceae2bce6923)
